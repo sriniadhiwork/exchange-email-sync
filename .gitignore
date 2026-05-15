@@ -1,0 +1,7 @@
+.env
+*.pyc
+__pycache__/
+.venv/
+venv/
+ms_token_cache.json
+google_token.json
